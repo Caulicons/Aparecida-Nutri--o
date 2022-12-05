@@ -1,13 +1,19 @@
 # Aparecida Nutrição
 
-Meu projeto do curso de "Curso deJavaScript: programando na linguagem da web" da Alura, com o orientado **Douglas Quintanilha Barbosa Ferreira**, [segue seu Linkedin](https://www.linkedin.com/in/douglas-quintanilha/).
+![project preview](./preview.gif)
 
-Mergulhando mas no JavaScript. Com esse projeto puder revisar colococar em práticas bastantes coisas e criar alguns freatures legais como adicionar novos pacientes, remover pacientes e busca pacientes a parti de uma API.
+Meu projeto do curso de "Curso de JavaScript: programando na linguagem da web" da Alura, com o orientado **Douglas Quintanilha Barbosa Ferreira**, [segue seu Linkedin](https://www.linkedin.com/in/douglas-quintanilha/).
 
-Na parte de adicionar novos pacientes tentei manipular os input com regex, utilizando limites de caracteres e já colocando algumas máscaras também. Na hora  de validar, por causa das máscaras ficou muito mais prático de expor os erros.
+A base desse projeto é a criação de uma página para a senhora Aparecida, para auxiliar ela na triagem de seus pacientes.
 
-Sobre a funcionalidade de remover paciente é apenas da dois clicks encima do paciente que queira excluir. Foi interessante coloca essa funcionalidade por que trouxe melhor entendimento de como o js fica atendo as ações.
+Mergulhando mais no JavaScript. Com esse projeto puder revisar e colocar em práticas bastantes coisas e criar alguns features legais como adicionar novos pacientes, remover pacientes e busca outros a parti de uma API.
 
-na parte de requisita informações a lista de um serviço extra como já tinha toda a parte de adiciona os pacientes feita, foi apenas usar o fetch, arrumar o erros, e chama novamente o ‘adicionarpaciente’.
+Na parte de adicionar novos pacientes tentei manipular os input com regex, utilizando limites de caracteres e já colocando algumas máscaras também. Na hora de validar, por causa das máscaras ficou muito mais prático de expor os erros.
 
-caso queira da uma olhada melhor segue link do GitHub: [https://github.com/Caulicons/Projetos-Alura/tree/main/Doguinho PetShop](https://github.com/Caulicons/Projetos-Alura/tree/main/Doguinho%20PetShop) ARRUMA ISSO AQUI!!!!!!!!!!!
+Sobre a funcionalidade de remover paciente é apenas da dois cliques em cima do paciente que queira excluir. Foi interessante coloca essa funcionalidade por que trouxe melhor entendimento de como o JS fica atendo as ações.
+
+Na parte de requisita informações a lista de um serviço extra como já tinha toda a parte de adiciona os pacientes feita foi apenas usar o fetch, arrumar os erros, e chama novamente o ‘adicionar paciente’.
+
+Caso queira dá uma olhada rápida no projeto para adiciona ou remover algum paciente só clicar [aqui](https://lnkd.in/gBr4vFvH)
+
+Já caso queira dá uma olhada no código, segue link do GitHub: https://lnkd.in/gTTTxkiq
